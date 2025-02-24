@@ -1,0 +1,66 @@
+[INTERNET]
+
+A internet é um conjudo de servidores publicos interconectados.
+
+A internet não é composta somente pelo World Wide Web (WWW). Mais tambem por: FTP (Servidor de tranferencia de
+arquivos), e-mail(Servidor de envio de caixa postal), Telnet(Servidores de comandos remotos).
+
+
+[HTTP]
+
+Protocolo HTTP: É um protocolo de transferencia de dados usado pela web. É bastante utilizado pelo modelo cliente-
+servidor.
+
+
+[HTTPS]
+
+O https utilizar a tecnologia de segurança de criptografia SSL/TLS. Ambas tecnologias evitam que terceiros clonem
+suas informações durante a solicitação de interatividade com o servidor web.
+
+
+[Front-end]
+
+O front-end trabalha com a parte do desenvolvimento web que lida com a interface do usuário.
+
+Tecnologias Utilizadas: HTML - Hypertext Markup Language(Estrutura o conteúdo da web), CSS - Cascading Style Sheets
+(Estiliza e apresenta o conteúdo HTML), JavaScript (Torna as Páginas web interativas e dinâmicas).
+
+
+[Back-end]
+
+O back-end é a parte que garante que tudo no front-end funcione corretamente, por exemplo: Servidor, aplicação e banco
+de dados.
+
+Tecnologias Utilizadas: Linguagens(Python, Ruby, PHP, Java, etc.); Banco de dados(PostgreSql, MySql, MongoDB, Oracle,
+etc); Framaworks(Django - Python, Express - JavaScript, SpringBoot - Java).
+
+
+[API]
+
+Interface de Programação de Aplicações (API):É um conjunto de regras e definições que permite que diferentes aplicações
+de software ou componentes se comuniquem entre si. Funciona como um intermediário, permitindo que pedidos sejam feitos
+e respostas sejam recebidas entre diferentes sistemas de software. (Lembrar da analogia do restaurante)
+
+Uma mesma API pode ser utilizada por diversos tipos de sistemas, por exemplo: Carros, Sensores, TV, e etc.
+
+
+[Tipos de API's - RESTful, SOAP e GraphQL]
+
+API RESTful: São baseadas me padrões HTTP e utilizadas para interações web. Caracteristicas (Uso dos métodos GET, POST,
+PUT, DELETE) para operações CRUD. Tem Curva de aprendizado bem menor. É bem facil de entender e implementar.
+
+SOAP (Simple Object Access Protocol): É um protocolo que define um padrão para a troca de mensagens baseadas em XML.
+Protocolo baseado em XML para troca de informações. Independente de linguagem e plataforma de transaporte. Tem suporte
+para operações complexas e segurança avançada.
+
+GraphQL: Linguagem de consulta para API, é um servidor capaz de executar essas consultas detornando apenas os dados
+especificados. Permite que os clientes especifiquem exatamente quais dados querem. Eficiente na redução de solicitações
+e no tamanho dos dados transferidos. Flexível e fortemente tipada, facilitando a atualização das API's.
+
+
+[Verbos HTTP: GET, POST, PATCH, PUT e DELETE]
+
+API's RESTfull, funcionam como um CRUD. Esta abordagem permite que as API's sejam intuitivas e previsíveis, facilitando
+a interação entre diferentes sistemas e aplicações.
+
+
