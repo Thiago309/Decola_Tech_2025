@@ -1,5 +1,5 @@
-package app3;
-/*
+package app4;
+
 import app3.SistemaMensagem;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -11,4 +11,4 @@ public class SpringPrimeirosPassosApplication {
     public static void main(String[] args) {
         SpringApplication.run(app.SpringPrimeirosPassosApplication.class, args);
     }
-}*/
+}

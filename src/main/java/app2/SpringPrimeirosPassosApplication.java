@@ -1,6 +1,5 @@
-package app2;
+/*package app2;
 
-import app2.SistemaMensagem;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -20,4 +19,4 @@ public class SpringPrimeirosPassosApplication {
             sistema.enviarConfirmacaoCadastro();
         };
     }
-}
+}*/
