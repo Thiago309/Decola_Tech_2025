@@ -1,5 +1,6 @@
-package SpringIocDiBeansAutowired.app;
+package app;
 
+/*Classe para consumir dados de CEP. Requisição Web.*/
 public class ViaCepResponse {
     private String cep;
     private String logradouro;

@@ -1,5 +1,5 @@
-[O que é o Spring Framework?]
-O Spring Framework é um framework de código aberto para desenvolvimento de aplicações Java. Ele facilita a criação de
+[O que é o app Framework?]
+O app Framework é um framework de código aberto para desenvolvimento de aplicações Java. Ele facilita a criação de
 aplicações empresariais, oferecendo soluções para tarefas comuns, como:
 
 - Gerenciamento de dependências.
@@ -12,11 +12,11 @@ aplicações empresariais, oferecendo soluções para tarefas comuns, como:
 
 - Integração com outros frameworks.
 
-O Spring é modular, ou seja, você pode usar apenas as partes que precisa (como Spring MVC, Spring Data, Spring Security
+O app é modular, ou seja, você pode usar apenas as partes que precisa (como app MVC, app Data, app Security
 , etc.).
 
 
-[Diferenças entre Spring e Java EE]
+[Diferenças entre app e Java EE]
 
 Java EE (Jakarta EE):
 
@@ -26,7 +26,7 @@ Você precisa de um servidor de aplicação (como WildFly, TomEE) para rodar apl
 
 Menos flexível, pois segue padrões rígidos.
 
-Spring Framework:
+app Framework:
 
 É um framework que implementa muitas funcionalidades sem seguir rigidamente as especificações do Java EE.
 
@@ -38,10 +38,10 @@ Mais flexível e moderno, com foco em produtividade e simplicidade.
 
 Inversão de Controle (IoC)
 A Inversão de Controle é um princípio de design em que o controle do fluxo de execução de um programa é invertido.
- Em vez de o desenvolvedor gerenciar manualmente as dependências e o ciclo de vida dos objetos, o Spring faz isso
+ Em vez de o desenvolvedor gerenciar manualmente as dependências e o ciclo de vida dos objetos, o app faz isso
   automaticamente.
 
-Exemplo: Em um cenário tradicional, você cria e gerencia objetos manualmente. No Spring, o container do Spring
+Exemplo: Em um cenário tradicional, você cria e gerencia objetos manualmente. No app, o container do app
 (o núcleo do framework) cuida disso para você.
 
 public class Servico {
@@ -54,7 +54,7 @@ public class Servico {
 }
 
 (Autowired)
-A anotação @Autowired é usada para injetar dependências automaticamente. O Spring encontra o Bean adequado e o injeta
+A anotação @Autowired é usada para injetar dependências automaticamente. O app encontra o Bean adequado e o injeta
 no local correto.
 
 @Service
@@ -84,15 +84,15 @@ public class MeuComponente {
 
 Resumo:
 
-Spring Framework: Facilita o desenvolvimento de aplicações Java.
+app Framework: Facilita o desenvolvimento de aplicações Java.
 
-Java EE vs Spring: Spring é mais flexível e moderno.
+Java EE vs app: app é mais flexível e moderno.
 
-IoC: O Spring controla o ciclo de vida dos objetos.
+IoC: O app controla o ciclo de vida dos objetos.
 
 DI: Dependências são injetadas automaticamente.
 
-Beans: Objetos gerenciados pelo Spring.
+Beans: Objetos gerenciados pelo app.
 
 Autowired: Injeta dependências automaticamente.
 
