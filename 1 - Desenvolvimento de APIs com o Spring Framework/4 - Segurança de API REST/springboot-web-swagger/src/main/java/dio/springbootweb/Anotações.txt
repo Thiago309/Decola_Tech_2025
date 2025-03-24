@@ -1,0 +1,6 @@
+Desenvolvimento de API RESTful Web service Java.
+
+@RestController = Um controller é um recurso que disponibiliza as funcionalidades de negócio da aplicação atraves
+do protocolo HTTP. Ou seja, obtem da aplicação toda logica de negocio. Esse serviço funciona de
+forma local, mas agora quero disponibilizar pra internet atraves de uma API.
+
