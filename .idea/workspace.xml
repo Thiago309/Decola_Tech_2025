@@ -5,15 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b7f5eb0f-2184-4c92-95b0-6e89fac944a3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/1 - Desenvolvimento de APIs com o Spring Framework/Projetos/PrimeiroProjeto/my-first-web-api/src/main/java/avanade2025/web/api/controller/UsuarioController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1 - Desenvolvimento de APIs com o Spring Framework/Projetos/PrimeiroProjeto/my-first-web-api/src/main/java/avanade2025/web/api/controller/WelcomeController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1 - Desenvolvimento de APIs com o Spring Framework/Projetos/PrimeiroProjeto/my-first-web-api/src/main/java/avanade2025/web/api/doc/SwaggerConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1 - Desenvolvimento de APIs com o Spring Framework/Projetos/PrimeiroProjeto/my-first-web-api/src/main/java/avanade2025/web/api/handler/BusinessException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1 - Desenvolvimento de APIs com o Spring Framework/Projetos/PrimeiroProjeto/my-first-web-api/src/main/java/avanade2025/web/api/handler/CampoObrigatorioException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1 - Desenvolvimento de APIs com o Spring Framework/Projetos/PrimeiroProjeto/my-first-web-api/src/main/java/avanade2025/web/api/handler/GlobalExceptionHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1 - Desenvolvimento de APIs com o Spring Framework/Projetos/PrimeiroProjeto/my-first-web-api/src/main/java/avanade2025/web/api/handler/ResponseError.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1 - Desenvolvimento de APIs com o Spring Framework/Projetos/PrimeiroProjeto/my-first-web-api/src/main/java/avanade2025/web/api/model/Usuario.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1 - Desenvolvimento de APIs com o Spring Framework/Projetos/PrimeiroProjeto/my-first-web-api/src/main/java/avanade2025/web/api/repository/UsuarioRepository.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -79,6 +70,8 @@
       <workItem from="1742699624181" duration="645000" />
       <workItem from="1742737208053" duration="1206000" />
       <workItem from="1742739993461" duration="3114000" />
+      <workItem from="1742819157270" duration="7000" />
+      <workItem from="1744206536595" duration="674000" />
     </task>
     <servers />
   </component>
